@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+    01_TUMOR       0.89      0.96      0.92        94
+   02_STROMA       0.94      0.78      0.85        93
+  03_COMPLEX       0.78      0.88      0.83        94
+   04_LYMPHO       0.91      0.98      0.94        94
+   05_DEBRIS       0.95      0.91      0.93        94
+   06_MUCOSA       0.98      0.88      0.93        94
+  07_ADIPOSE       0.99      0.95      0.97        94
+    08_EMPTY       0.95      0.99      0.97        93
+
+    accuracy                           0.92       750
+   macro avg       0.92      0.92      0.92       750
+weighted avg       0.92      0.92      0.92       750
